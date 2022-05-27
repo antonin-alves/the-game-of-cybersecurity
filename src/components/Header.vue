@@ -2,7 +2,7 @@
   <div>
     <header>
       <div>
-        <button @click="$store.commit('RESETQUIZ')">Anime Quiz</button>
+        <button @click="$store.commit('RESETQUIZ')">The Game Of Cybersecurity</button>
       </div>
     </header>
   </div>
