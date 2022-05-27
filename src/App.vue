@@ -1,7 +1,24 @@
 <template>
-  <div id="nav"><router-link to="/">Home</router-link> |</div>
-  <router-view />
+  <div id="app">
+    <Header/>
+    <Select/>
+    <Quiz/>
+  </div>
 </template>
+
+<script>
+import Header from '@/components/Header.vue'
+import Select from '@/components/Select.vue'
+import Quiz from '@/components/Quiz.vue'
+export default {
+  name: 'App',
+  components: {
+    Header,
+    Select,
+    Quiz
+  }
+}
+</script>
 
 <style>
 #app {
@@ -10,18 +27,6 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-}
-
-#nav {
-  padding: 30px;
-}
-
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-#nav a.router-link-exact-active {
-  color: #42b983;
+  margin-top: 60px;
 }
 </style>

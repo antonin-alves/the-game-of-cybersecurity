@@ -1,0 +1,14 @@
+{
+    "results": [
+        {
+            "category": "Internet",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Est-ce que tu vérifies l'URL des sites que tu consultes ?",
+            "correct_answer": "Oui",
+            "incorrect_answers": [
+                "Non"
+            ]
+        }
+    ]
+}
