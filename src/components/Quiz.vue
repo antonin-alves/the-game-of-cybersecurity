@@ -95,6 +95,7 @@ ul li {
   margin-top: -1px; /* Prevent double borders */
   background-color: #2E2E2E;
   padding: 12px;
+  font-weight: bold;
   color: #fff;
 }
 li:hover{

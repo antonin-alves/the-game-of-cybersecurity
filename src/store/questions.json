@@ -1,14 +1,69 @@
 {
     "results": [
         {
-            "category": "Internet",
-            "type": "multiple",
-            "difficulty": "easy",
+            "category": "Navigation",
+            "type": "Question",
             "question": "Est-ce que tu vérifies l'URL des sites que tu consultes ?",
             "correct_answer": "Oui",
             "incorrect_answers": [
                 "Non"
             ]
+        },
+        {
+            "category": "Navigation",
+            "type": "Test",
+            "question": "quelle url n’est pas une menace ?",
+            "correct_answer": "https://facebook.fr",
+            "incorrect_answers": [
+                "https://fаcebook.fr",
+                "http://facebоok.fr",
+                "https://facebоook.fr"
+            ],
+            "tips": "Sur les navigateur internet, en survollant un lien, on peut voir en bas à droite le contenu exact du lien."
+        },
+        {
+            "category": "Au Bureau",
+            "type": "Question",
+            "question": "Verrouille tu ton pc lorsque tu t'en éloigne ?",
+            "correct_answer": "oui",
+            "incorrect_answers": [
+                "non"
+            ],
+            "tips": ""
+        },
+        {
+            "category": "Mot de passe",
+            "type": "Question",
+            "question": "Parlons de tes mots de passe",
+            "correct_answer": "Chaque compte à un mot de passe différent !",
+            "incorrect_answers": [
+                "Je change parfois de mot de passe en fonction des sites.",
+                "Toujours le même mot de passe !"
+            ],
+            "tips": ""
+        },
+        {
+            "category": "Mot de passe",
+            "type": "Question",
+            "question": "Parlons de tes mots de passe",
+            "correct_answer": "Chaque compte à un mot de passe différent !",
+            "incorrect_answers": [
+                "Je change parfois de mot de passe en fonction des sites.",
+                "Toujours le même mot de passe !"
+            ],
+            "tips": ""
+        },
+        {
+            "category": "Mot de passe",
+            "type": "Question",
+            "question": "Est ce que tu connait la double authentification ?",
+            "correct_answer": "Biensur, je l'utilise dès que je peux",
+            "incorrect_answers": [
+                "Absolument pas !",
+                "Oui, mais je ne l'utilise pas trop ( que pour les sites important )",
+                "Je connais mais balec"
+            ],
+            "tips": ""
         }
     ]
 }
