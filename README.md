@@ -21,7 +21,7 @@
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/antonin-alves/the-game-of-cybersecurity?color=dark-green) ![Issues](https://img.shields.io/github/issues/antonin-alves/the-game-of-cybersecurity) ![License](https://img.shields.io/github/license/antonin-alves/the-game-of-cybersecurity) 
+![Contributors](https://img.shields.io/github/contributors/antonin-alves/the-game-of-cybersecurity?color=dark-green) ![Issues](https://img.shields.io/github/issues/antonin-alves/the-game-of-cybersecurity)
 
 ## Table Of Contents
 
